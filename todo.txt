@@ -1,0 +1,4 @@
+get streamlit working 
+implement a pipeline that browses the web for images and processes them through a transformer
+evaluate progress and set to-do prioriities 
+create a readme
